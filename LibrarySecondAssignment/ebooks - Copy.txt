@@ -1,0 +1,10 @@
+Jurassic Park,Michael Crichton,adult
+The Stand,Stephen King,adult
+Sphere,Michael Cricton,adult
+Objects First with Java : A Practical Introduction Using BlueJ,Barnes and Kolling,adult
+Database Systems : Design Implementation & Managemen,Coronel C,adult
+Operating Systems : Internals and Design Principles Global Edition,Stallings W,adult
+Business Data Communications and Networking,FitzGerald J,adult
+Green Eggs and Ham,Dr. Seuss,child
+Charlotte's Web,E.B. Web,child
+Matilda,Roald Dahl,child
