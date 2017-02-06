@@ -1,1 +1,1 @@
-# This is a sample of Python scripts.
+# This repository is a collection of sample codes.
